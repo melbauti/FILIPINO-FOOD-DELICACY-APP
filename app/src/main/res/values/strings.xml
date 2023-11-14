@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Filipino Food Delicacy</string>
+    <string name="Filipino_Food_Delicacy">Filipino Food Delicacy</string>
+    <string name="logo">Logo</string>
+
+    <string-array name="State">
+        <item>Please Select</item>
+        <item>NCR</item>
+
+
+    </string-array>
+
+    <string-array name="shipper">
+        <item>Delivery 1</item>
+        <item>Delivery 2</item>
+
+    </string-array>
+
+    <string-array name="set">
+        <item>Please Select</item>
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Meryenda</item>
+
+    </string-array>
+
+</resources>

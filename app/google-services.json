@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "283131633160",
+    "firebase_url": "https://filipinofooddelicacy2021-default-rtdb.firebaseio.com",
+    "project_id": "filipinofooddelicacy2021",
+    "storage_bucket": "filipinofooddelicacy2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283131633160:android:9ee134e76bd52f59c8fbbd",
+        "android_client_info": {
+          "package_name": "com.FilipinoFoodDelicacy.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283131633160-3no5o848t9qn6n5njorr51263qpj7842.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.FilipinoFoodDelicacy.app",
+            "certificate_hash": "4f945446b0847b9c67737fa96e1cc6d59e558e66"
+          }
+        },
+        {
+          "client_id": "283131633160-d0548j4ek1tf1auua94kum07mb7n2aeo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5W3s6BA4OeULafmxO5cJmmq9AChwJ-58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283131633160-d0548j4ek1tf1auua94kum07mb7n2aeo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

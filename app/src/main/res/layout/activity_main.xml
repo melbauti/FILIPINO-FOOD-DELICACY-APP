@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/image_View"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_marginTop="60dp"
+        android:layout_marginBottom="5dp"
+        android:contentDescription="@string/logo"
+        android:src="@drawable/food_logo" />
+
+    <TextView
+        android:id="@+id/Text_View"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Filipino Food Delicacy"
+        android:textColor="@color/Black"
+        android:textSize="55sp"
+        android:textStyle="bold"
+        android:textAlignment="center"/>
+
+
+
+    <TextView
+        android:id="@+id/slogan_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAllCaps="true"
+        android:layout_marginTop="45dp"
+        android:text="MI-J3 Traditional Food Delicacy Express"
+        android:textAlignment="center"
+        android:fontFamily="sans-serif-black"
+        android:transitionName="MI-J3 Traditional Food Delicacy Express"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        android:textColor="@color/Blacklogo"/>
+
+</LinearLayout>
